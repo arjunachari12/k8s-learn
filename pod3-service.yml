@@ -9,5 +9,5 @@ spec:
     targetPort: nodejs-port
     protocol: TCP
   selector:
-    app: heloworld
+    app: helloworld
   type: NodePort
